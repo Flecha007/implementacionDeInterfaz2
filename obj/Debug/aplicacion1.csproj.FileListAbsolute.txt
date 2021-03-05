@@ -1,0 +1,37 @@
+D:\demos\WebApplication1\aplicacion1\bin\Debug\aplicacion1.exe.config
+D:\demos\WebApplication1\aplicacion1\bin\Debug\aplicacion1.exe
+D:\demos\WebApplication1\aplicacion1\bin\Debug\aplicacion1.pdb
+D:\demos\WebApplication1\aplicacion1\bin\Debug\Newtonsoft.Json.dll
+D:\demos\WebApplication1\aplicacion1\bin\Debug\Newtonsoft.Json.xml
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.csprojAssemblyReference.cache
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.Form1.resources
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.Properties.Resources.resources
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.csproj.GenerateResource.cache
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.csproj.CoreCompileInputs.cache
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.csproj.CopyComplete
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.exe
+D:\demos\WebApplication1\aplicacion1\obj\Debug\aplicacion1.pdb
+E:\ARCHIVOS\_skSoftware\appApi\bin\Debug\aplicacion1.exe.config
+E:\ARCHIVOS\_skSoftware\appApi\bin\Debug\aplicacion1.exe
+E:\ARCHIVOS\_skSoftware\appApi\bin\Debug\aplicacion1.pdb
+E:\ARCHIVOS\_skSoftware\appApi\bin\Debug\Newtonsoft.Json.xml
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.csprojAssemblyReference.cache
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.Form1.resources
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.Properties.Resources.resources
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.csproj.GenerateResource.cache
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.csproj.CoreCompileInputs.cache
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.csproj.CopyComplete
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.exe
+E:\ARCHIVOS\_skSoftware\appApi\obj\Debug\aplicacion1.pdb
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\bin\Debug\aplicacion1.exe.config
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\bin\Debug\aplicacion1.exe
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\bin\Debug\aplicacion1.pdb
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\bin\Debug\Newtonsoft.Json.xml
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.csprojAssemblyReference.cache
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.Form1.resources
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.Properties.Resources.resources
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.csproj.GenerateResource.cache
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.csproj.CoreCompileInputs.cache
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.csproj.CopyComplete
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.exe
+E:\MODULOS UPDS\TECNOLOGIA WEB II\appApi\obj\Debug\aplicacion1.pdb
